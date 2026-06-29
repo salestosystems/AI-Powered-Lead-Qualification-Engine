@@ -96,12 +96,7 @@ Gmail        Update Contact
 ---
 
 # Workflow Screenshot
-
-(Add your uploaded scenario image here)
-
-Recommended filename
-
-/images/workflow-overview.png
+<img width="1231" height="577" alt="Lead Qualification Engine" src="https://github.com/user-attachments/assets/1fa34e09-083d-4a7e-9ae0-cc0294176b72" />
 
 ---
 
