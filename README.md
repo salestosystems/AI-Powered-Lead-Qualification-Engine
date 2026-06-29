@@ -359,25 +359,11 @@ Expected JSON
 
 # Screenshots
 
-Recommended folder structure
-
-```
-screenshots/
-
-workflow-overview.png
-
-hubspot-contact-created.png
-
-gemini-response.png
-
-router-filters.png
-
-qualified-email.png
-
-contact-updated.png
-```
-
----
+<img width="959" height="582" alt="Lead Qualification Engine 3" src="https://github.com/user-attachments/assets/7642add0-c59c-4105-9b43-c1972c314fbf" />
+<img width="522" height="498" alt="Lead Qualification Engine 4" src="https://github.com/user-attachments/assets/abe0aad6-4180-412c-970a-4e76ab73249a" />
+<img width="490" height="492" alt="Lead Qualification Engine 5" src="https://github.com/user-attachments/assets/7f4f7140-af2a-457a-b54f-6265be6ec01e" />
+<img width="802" height="579" alt="Lead Qualification Engine 6" src="https://github.com/user-attachments/assets/05d9053b-484b-4306-9388-1f660460a96d" />
+<img width="1086" height="578" alt="Lead Qualification Engine 2" src="https://github.com/user-attachments/assets/bf72a5f3-002e-4697-a8d4-cec73e9726d9" />
 
 # Challenges Solved
 
