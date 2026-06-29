@@ -1,6 +1,40 @@
+## Project Information
+
+**Project Name:** Lead Qualification Engine
+
+**Category:** Revenue Operations (RevOps)
+
+**Business Function:** Marketing → Sales
+
+**Project Type:** AI-Powered Sales Automation
+
+**Built With:** Make.com, HubSpot CRM, Google Gemini AI, Gmail, Tally Forms
+
+**Status:** ✅ Production-Ready Portfolio Project
+
+**Author:** Hardeep Kushwaha
+
+---
+
 # AI-Powered Lead Qualification Engine
 
 > An AI-driven Revenue Operations (RevOps) workflow that automatically captures, qualifies, scores, updates, and routes inbound leads using Make.com, HubSpot CRM, Google Gemini AI, and Gmail.
+
+---
+
+## 💡 Architect's Note
+
+Having spent 6+ years in Enterprise B2B Sales, I've experienced firsthand how promising opportunities are lost—not because of poor salespeople, but because of disconnected systems, incomplete data, and slow follow-ups.
+
+I built this Lead Qualification Engine to bridge the gap between marketing and sales by automating lead enrichment, AI-powered qualification, CRM updates, and intelligent routing. The objective wasn't simply to automate tasks—it was to create a repeatable revenue process that helps sales teams spend more time selling and less time managing data.
+
+This project reflects my transition from Enterprise Sales into Revenue Operations (RevOps) and GTM Systems, where technology is used to improve revenue execution rather than replace salespeople.
+
+---
+
+### Primary Objective
+
+Reduce manual lead qualification, improve SQL quality, accelerate sales response time, and establish a scalable RevOps workflow using AI-powered automation.
 
 ---
 
@@ -413,7 +447,7 @@ Estimated Benefits
 
 ✔ Up to 70% reduction in manual lead qualification
 
-✔ Faster lead response
+✔ Drastic reduction in Speed-to-Lead (under 60 seconds), protecting inbound conversion rates before intent drops.
 
 ✔ Improved CRM hygiene
 
@@ -422,6 +456,8 @@ Estimated Benefits
 ✔ Higher SQL quality
 
 ✔ Consistent qualification framework
+
+✔ Elimination of manual triage overhead, freeing up an estimated 5–10 hours per week per SDR to focus on pipeline generation rather than data entry.
 
 ---
 
