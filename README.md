@@ -12,8 +12,6 @@
 
 **Status:** ✅ Production-Ready Portfolio Project
 
-**Author:** Hardeep Kushwaha
-
 ---
 
 # AI-Powered Lead Qualification Engine
